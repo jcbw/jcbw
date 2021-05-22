@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcbw
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on any and all things geoscience
+- 💞️ I’m looking to collaborate on any and all things geoscience.
 - 📫 How to reach me : jullian.williams@utsa.edu
 
 <!---
