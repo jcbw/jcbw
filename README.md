@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jcbw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👋 Hi, I’m Jullian.
+- 👀 I’m interested in remote sensing/geological mapping/research/outreach. As well as anything in the arts & sports (mostly tennis/football).
+- 🌱 I’m currently learning. (always).
 - 💞️ I’m looking to collaborate on any and all things geoscience.
 - 📫 How to reach me : jullian.williams@utsa.edu
 
