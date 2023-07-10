@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any and all things geoscience and civil engineering.
 - 🦜 I speak English, Spanish and Jamaican patois.
 - ORCID ID: https://orcid.org/0000-0001-5700-4908
-- 📫 How to reach me : jullian.williams@utsa.edu
 
 <!---
 jcbw/jcbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
