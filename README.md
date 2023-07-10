@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jullian.
-- 👀 I’m interested in remote sensing/geological & mining engineering/research/outreach. As well as anything in the arts & sports (mostly tennis/football).
+- 👀 I’m interested in remote sensing/geological & mining engineering/research/outreach. As well as anything in the arts (music/dancing/culinary) & sports (mostly tennis/football).
 - 🌱 I’m currently learning. (always).
 - 💞️ I’m looking to collaborate on any and all things geoscience and civil engineering.
 - 🦜 I speak English, Spanish and Jamaican patois.
